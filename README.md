@@ -1,6 +1,6 @@
-# 👋 I'm Philippe Tarbouriech aka @lephitar!
+## 👋 I'm Philippe Tarbouriech aka @lephitar!
 
-## 🌟 About Me
+### 🌟 About Me
 
 I'm a multifaceted developer with experience on **2D and 3D imaging and processing**, **smart contracts**, **dapps**, **ChatGPT**, and diverse programming languages like **C**, **Swift**, **JavaScript**, **Python**, and **Solidity**. I'm passionate about leveraging technology to create innovative and exciting new business opportunities. My curiosity drives me to explore new fields and constantly aim to disrupt.
 
